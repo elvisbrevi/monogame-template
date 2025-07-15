@@ -4,7 +4,7 @@ A powerful and flexible template for creating cross-platform games using MonoGam
 
 ## 📸 Screenshot
 
-[Your game screenshot here]
+<img width="804" height="513" alt="Screenshot 2025-07-15 at 4 12 30 PM" src="https://github.com/user-attachments/assets/06e1432f-439f-498e-9483-e13012d6980d" />
 
 ## ✨ Features
 
